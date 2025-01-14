@@ -1,0 +1,65 @@
+{
+    "gastos": [
+        {
+            "monto": 23.0,
+            "descripcion": "platanos",
+            "categoria": "comida",
+            "fecha_hora": "2025-01-14 16:37:32"
+        },
+        {
+            "monto": 234.0,
+            "descripcion": "regalos varios",
+            "categoria": "familia",
+            "fecha_hora": "2025-01-14 16:38:13"
+        },
+        {
+            "monto": 342.0,
+            "descripcion": "pasaje lima",
+            "categoria": "transporte",
+            "fecha_hora": "2025-01-14 16:38:49"
+        },
+        {
+            "monto": 23.0,
+            "descripcion": "tamales mexicanos",
+            "categoria": "comida peculiar",
+            "fecha_hora": "2025-01-14 16:48:24"
+        },
+        {
+            "monto": 23.0,
+            "descripcion": "ojo",
+            "categoria": "salir",
+            "fecha_hora": "2025-01-14 16:59:58"
+        },
+        {
+            "monto": 12.0,
+            "descripcion": "ojo2",
+            "categoria": "salir",
+            "fecha_hora": "2025-01-14 17:00:42"
+        },
+        {
+            "monto": 12.0,
+            "descripcion": "ojo3",
+            "categoria": "salir",
+            "fecha_hora": "2025-01-14 17:01:25"
+        },
+        {
+            "monto": 23.0,
+            "descripcion": "ojo4",
+            "categoria": "salir",
+            "fecha_hora": "2025-01-14 17:02:20"
+        },
+        {
+            "monto": 23.0,
+            "descripcion": "ojjo",
+            "categoria": "salir2",
+            "fecha_hora": "2025-01-14 17:03:17"
+        }
+    ],
+    "categorias": [
+        "comida",
+        "familia",
+        "transporte",
+        "salir",
+        "salir2"
+    ]
+}

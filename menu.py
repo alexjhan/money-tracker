@@ -13,8 +13,7 @@ def show_menu():
     table.add_row("3", "Eliminar gasto")
     table.add_row("4", "Modificar gasto")
     table.add_row("5", "Listar categorías")
-    table.add_row("6", "Agregar categoría")
-    table.add_row("7", "Salir")
+    table.add_row("6", "Salir")
     menu_panel = Panel(table,title="📋 [bold magenta]MENÚ[/bold magenta]", border_style="white",expand=False)
        
      # Crear las estadísticas
