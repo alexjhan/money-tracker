@@ -1,3 +1,5 @@
+proyecto: https://roadmap.sh/projects/expense-tracker
+
 # 🌟 Proyecto de Gestión de Gastos
 
 Bienvenido al proyecto de **Gestión de Gastos**. Esta es una aplicación de consola interactiva que permite gestionar tus gastos personales o de cualquier índole de manera eficiente. Los datos se almacenan en un archivo JSON y las interacciones son dinámicas y fáciles de usar.
