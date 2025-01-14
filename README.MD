@@ -35,8 +35,8 @@ pip install rich
 Primero, clona el repositorio de GitHub a tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/proyecto_gastos.git
-cd proyecto_gastos
+git clone https://github.com/alexjhan/money-tracker.git
+cd money-tracker
 ```
 
 ### 2. **Ejecutar el programa**:
@@ -60,18 +60,8 @@ Los gastos se almacenan en un archivo JSON con el siguiente formato:
 
 ```json
 {
-  "gastos": [
-    {
-      "descripcion": "Comida",
-      "monto": 20.5,
-      "categoria": "Alimentación"
-    },
-    {
-      "descripcion": "Transporte",
-      "monto": 15.0,
-      "categoria": "Transporte"
-    }
-  ]
+    "gastos": [],
+    "categorias": []
 }
 ```
 
@@ -85,9 +75,9 @@ Este archivo se actualizará automáticamente después de cada operación.
 .
 ├── gastos.json               # Archivo donde se guardan los gastos
 ├── limpiezaDePantalla.py     # Funciones para limpiar la terminal
-├── funciones/                
-│   └── alistarGastos.py      # Funciones para listar y gestionar los gastos
+├── funciones/                # Multiples Funciones
 ├── main.py                   # Archivo principal del programa
+├── menu.py                   # Menu
 └── README.md                 # Este archivo
 ```
 
@@ -144,8 +134,8 @@ Este proyecto está licenciado bajo la **Licencia MIT**. Si tienes alguna duda s
 
 Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en abrir un **issue** o contactar directamente a través de:
 
-- Correo electrónico: **tu_email@dominio.com**
-- GitHub: [tu_usuario](https://github.com/tu_usuario)
+- Correo electrónico: **alex.222geri@gmail.com**
+- GitHub: [alexjhna](https://github.com/alexjhan)
 
 ---
 
